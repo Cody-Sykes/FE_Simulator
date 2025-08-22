@@ -1,0 +1,14 @@
+C:\Users\cody.sykes\source\repos\AIVision_OCR_Tests\AIVision_OCR_Tests\bin\Debug\net8.0\AIVision_OCR_Tests.exe
+C:\Users\cody.sykes\source\repos\AIVision_OCR_Tests\AIVision_OCR_Tests\bin\Debug\net8.0\AIVision_OCR_Tests.deps.json
+C:\Users\cody.sykes\source\repos\AIVision_OCR_Tests\AIVision_OCR_Tests\bin\Debug\net8.0\AIVision_OCR_Tests.runtimeconfig.json
+C:\Users\cody.sykes\source\repos\AIVision_OCR_Tests\AIVision_OCR_Tests\bin\Debug\net8.0\AIVision_OCR_Tests.dll
+C:\Users\cody.sykes\source\repos\AIVision_OCR_Tests\AIVision_OCR_Tests\bin\Debug\net8.0\AIVision_OCR_Tests.pdb
+C:\Users\cody.sykes\source\repos\AIVision_OCR_Tests\AIVision_OCR_Tests\obj\Debug\net8.0\AIVision_OCR_Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cody.sykes\source\repos\AIVision_OCR_Tests\AIVision_OCR_Tests\obj\Debug\net8.0\AIVision_OCR_Tests.AssemblyInfoInputs.cache
+C:\Users\cody.sykes\source\repos\AIVision_OCR_Tests\AIVision_OCR_Tests\obj\Debug\net8.0\AIVision_OCR_Tests.AssemblyInfo.cs
+C:\Users\cody.sykes\source\repos\AIVision_OCR_Tests\AIVision_OCR_Tests\obj\Debug\net8.0\AIVision_OCR_Tests.csproj.CoreCompileInputs.cache
+C:\Users\cody.sykes\source\repos\AIVision_OCR_Tests\AIVision_OCR_Tests\obj\Debug\net8.0\AIVision_OCR_Tests.dll
+C:\Users\cody.sykes\source\repos\AIVision_OCR_Tests\AIVision_OCR_Tests\obj\Debug\net8.0\refint\AIVision_OCR_Tests.dll
+C:\Users\cody.sykes\source\repos\AIVision_OCR_Tests\AIVision_OCR_Tests\obj\Debug\net8.0\AIVision_OCR_Tests.pdb
+C:\Users\cody.sykes\source\repos\AIVision_OCR_Tests\AIVision_OCR_Tests\obj\Debug\net8.0\AIVision_OCR_Tests.genruntimeconfig.cache
+C:\Users\cody.sykes\source\repos\AIVision_OCR_Tests\AIVision_OCR_Tests\obj\Debug\net8.0\ref\AIVision_OCR_Tests.dll
